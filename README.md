@@ -1,23 +1,30 @@
 # Projeto Banco de Dados CC5232
 
-Alunos:
+## Alunos:
 
-Lucas Sombra do Nascimento RA: 221221120
-Nathalia Saori Shimokawa   RA: 221221 *
-Rafael Augusto Assembleia  RA: 221221039
+- Lucas Sombra do Nascimento RA: 221221120
+- Nathalia Saori Shimokawa RA: 221221XXX
+- Rafael Augusto Assembleia RA: 221221039
+
+## Banco de dados de uma universidade
+
+### Instruções de Uso
+
+#### 1. Criação das Tabelas e suas Relações
+
+Execute o arquivo: `CreateTable.sql`
+
+Este arquivo é responsável pela criação das tabelas e suas relações que serão preenchidas nos próximos passos.
+
+#### 2. Preenchimento de Dados Essenciais
+
+Execute os arquivos na seguinte ordem:
+
+1. `Departamento.sql`
+2. `MatrizCurricular.sql`
+3. `Professor.sql`
+4. `Curso.sql`
+5. `Disciplina.sql`
 
 
-Banco de dados de uma univerisidade 
 
-Intrucoes de Uso 
-
-1-CRIACAO DAS TABELAS E SUAS RELACOES 
-  Execultar o arquivo: CreateTable.sql
-  Este é responsavel para a criacao das tabelas e suas relacoes que serao prenchidas nos proximos passos  
-  
-2 -PRECHIMENTO DE DADOS ESSECIAIS 
-  Execultar nesta ordem os arquivos 
-    1 -Departamento.sql
-    2 -MatrizCurricular.sql
-    3 -Professor.sql
-    4 -Curso.sql
