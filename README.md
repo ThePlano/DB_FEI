@@ -26,5 +26,13 @@ Execute os arquivos na seguinte ordem:
 4. `Curso.sql`
 5. `Disciplina.sql`
 
+#### 3. Preenchimento de Dados Essenciais (Executaveis .py)
+
+Execute os arquivos na seguinte ordem, apos execulta-los copie a querry gerado pelos executaveis. 
+
+1. `GeradorAluno.py`
+2. `GeradorNotas.py`
+3.  `GeradorTCC.py`
+
 
 
