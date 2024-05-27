@@ -35,4 +35,4 @@ Execute os arquivos na seguinte ordem, apos execulta-los copie a querry gerado p
 3.  `GeradorTCC.py`
 
 
-
+### AS queries Solicitadas estão no enumerada como 1.sql 2,sql etc. Assim como solicitado
