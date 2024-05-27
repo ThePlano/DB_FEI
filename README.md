@@ -3,7 +3,7 @@
 ## Alunos:
 
 - Lucas Sombra do Nascimento RA: 221221120
-- Nathalia Saori Shimokawa RA: 221221258
+- Nathalia Saori Shimokawa RA: 221220258
 - Rafael Augusto Assembleia RA: 221221039
 
 ## Banco de dados de uma universidade
