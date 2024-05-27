@@ -36,3 +36,7 @@ Execute os arquivos na seguinte ordem, apos execulta-los copie a querry gerado p
 
 
 ### AS queries Solicitadas estão no enumerada como 1.sql 2,sql etc. Assim como solicitado
+## Diagrama MER
+
+![Diagrama MER](https://raw.githubusercontent.com/ThePlano/DB_FEI/main/MER.png "Diagrama MER")
+
